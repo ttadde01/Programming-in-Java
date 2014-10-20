@@ -2,10 +2,10 @@
 * Day One: Exercise 6                                                                                 *
 * Write a program that requests two numbers from the user and then outputs the                        *
 * quotient and the remainder, e.g. if the user enters 7 and 3, your program should                    *
-* ouput something like ì7 divided by 3 is 2, remainder 1î. You cannot use the                         *
-* ì/î or ì%î operators.                                                                               *
+* ouput something like ‚Äú7 divided by 3 is 2, remainder 1‚Äù. You cannot use the                         *
+* ‚Äú/‚Äù or ‚Äú%‚Äù operators.                                                                               *
 *                                                                                                     *
-* Author: Tadiwos Taddese                                                                             *
+* Author: ttadde01                                                                             *
 *******************************************************************************************************/
 import java.util.Scanner;
 
