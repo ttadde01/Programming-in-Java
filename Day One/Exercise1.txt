@@ -1,0 +1,23 @@
+/******************************************************************************************************/
+* Day One: Exercise 1
+* 
+*******************************************************************************************************/
+
+//**************Answer******************
+
+int currentYear = 2012
+// create an object of integer type and assigne it a value of 2012
+print "When were you born (year)?"
+/// Prints to the console "When were you born (year)?". Common way to prompt a user to input a value.
+String str = System.console().readLine();
+// Reads a line from the console and assign it to a new String object str.
+int birthYear = Integer.parseInt(str);
+// Creates a new object of the type int and parse the value of str to a type of int. This might throw an exception if valu is not a valid positive or negative number.
+int ageAprox = currentYear - birthYear;
+// create an object of type int and assign it to the difference of current year and birthYear variables. This code won't compile as variable currentYear has not been created.
+String result = (ageAprox > 17) ? "" : "not "
+// Creates an object of class result and assign it a value of "" if ageApprox is greater than seventeen and " not " if not.
+println "It seems you are " + result + "an adult."
+// Prints "It seems you are an adult." or "It seems you are not an adult."
+
+

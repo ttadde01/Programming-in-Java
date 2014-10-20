@@ -1,0 +1,22 @@
+/******************************************************************************************************/
+* Day One: Exercise 3
+* 
+*******************************************************************************************************/
+
+//**************Answer******************
+
+Reads input from the command line. 
+While the input is less than 10 checks if input is equal to 0 and if it is 
+print "finished" and exit.
+While the input is not less than 10 and input not equal to 0, check input further if it is equal to 1. If input equals to 1
+print "finished" and exit.
+While the input is not less than 10 and input not equal to 0 or 1 prints as shown below.
+n
+n-1
+n-2
+.
+.
+.
+3
+2
+finished
