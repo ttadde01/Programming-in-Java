@@ -1,10 +1,11 @@
 /******************************************************************************************************
 * Day One: Exercise 8                                                                                 *
 * Write a program that read a (arbitrarily long) sequence of positive numbers.                        *
-* The sequence is ended when the users enters ì-1î. At that point, the program                        *
-* must output the highest number in the sequence.                                                     *                                                                                       *
+* The sequence is ended when the users enters ‚Äú-1‚Äù. At that point, the program                        *
+* must output the highest number in the sequence.
+                                                     *                                                                                       *
 *                                                                                                     *
-* Author: Tadiwos Taddese                                                                             *
+* Author: ttadde01                                                                           *
 *******************************************************************************************************/
 import java.util.Scanner;
 import java.util.Arrays;
