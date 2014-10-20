@@ -1,9 +1,10 @@
 /******************************************************************************************************
 * Day One: Exercise 4                                                                                 *
 * Write a program that requests two numbers from the user and then outputs its                        *
-* product. You cannot use the ì*î operator.                                                           *
+* product. You cannot use the ‚Äú*‚Äù operator.
+                                                           *
 *                                                                                                     *
-* Author: Tadiwos Taddese                                                                             *
+* Author: ttadde01                                                                            *
 *******************************************************************************************************/
 import java.util.Scanner;
 
