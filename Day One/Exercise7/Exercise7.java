@@ -1,9 +1,10 @@
 /******************************************************************************************************
 * Day One: Exercise 7                                                                                 *
 * Write a program that reads three numbers and prints them in order, from lowest                      *
-* to highest.                                                                                         *
+* to highest.
+                                                                                         *
 *                                                                                                     *
-* Author: Tadiwos Taddese                                                                             *
+* Author: ttadde01                                                                            *
 *******************************************************************************************************/
 import java.util.Scanner;
 import java.util.Arrays;
